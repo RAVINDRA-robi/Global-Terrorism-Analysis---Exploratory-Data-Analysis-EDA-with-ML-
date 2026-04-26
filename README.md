@@ -6,7 +6,7 @@ This project performs a comprehensive analysis of global terrorism data using **
 
 The project integrates **Python-based analysis** with an **interactive Power BI dashboard** to present insights in a clear and actionable format.
 
-![Machine Learning Process](https://github.com/RAVINDRA-robi/Global-Terrorism-Analysis---Exploratory-Data-Analysis-EDA-with-ML-/blob/ac024628e7adada5b607916c2809c3888fbb86f1/edaml%20workflow.png)
+![Machine Learning Process](https://github.com/RAVINDRA-robi/Global-Terrorism-Analysis---Exploratory-Data-Analysis-EDA-with-ML-/blob/a1a6917349add331a7960bc444b32d6fbe4807df/PROJECT%20MODEL%20WORKFLOW.png)
 ---
 
 ## 🎯 Objectives
