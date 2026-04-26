@@ -150,6 +150,8 @@ The dashboard provides an interactive view of the analysis with:
 * Top countries and attack types
 * Severity classification
 * Scatter plot (Killed vs Wounded)
+## POWER BI DASHBOARD (LINK)
+https://drive.google.com/file/d/1T_zJJCne9Mc-28i_q5oprCKSj5NWOSl0/view?usp=sharing
 
 ---
 
