@@ -5,7 +5,7 @@
 This project performs a comprehensive analysis of global terrorism data using **Exploratory Data Analysis (EDA)** and **Unsupervised Machine Learning** techniques. The goal is to uncover hidden patterns, understand trends, and classify countries based on the severity of terrorist activities.
 
 The project integrates **Python-based analysis** with an **interactive Power BI dashboard** to present insights in a clear and actionable format.
-
+! [ML_Process]()
 ---
 
 ## 🎯 Objectives
