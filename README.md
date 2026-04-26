@@ -5,7 +5,7 @@
 This project performs a comprehensive analysis of global terrorism data using **Exploratory Data Analysis (EDA)** and **Unsupervised Machine Learning** techniques. The goal is to uncover hidden patterns, understand trends, and classify countries based on the severity of terrorist activities.
 
 The project integrates **Python-based analysis** with an **interactive Power BI dashboard** to present insights in a clear and actionable format.
-! [ML_Process](https://github.com/RAVINDRA-robi/Global-Terrorism-Analysis---Exploratory-Data-Analysis-EDA-with-ML-/blob/a90c443986cf3e545fab31681c758b65294400fc/PROJECT%20MODEL%20WORKFLOW.png) ![Machine Learning Process](https://github.com/satyamlokhande25-maker/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/54106c2be0e810b098253b8bada24f9deeea4520/ML-workflow.png)
+![Machine Learning Process](https://github.com/RAVINDRA-robi/Global-Terrorism-Analysis---Exploratory-Data-Analysis-EDA-with-ML-/blob/main/PROJECT%20MODEL%20WORKFLOW.png)
 ---
 
 ## 🎯 Objectives
