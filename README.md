@@ -141,6 +141,7 @@ Cluster labels mapped to:
 ---
 
 ## 📊 Power BI Dashboard
+![POWERBI DSHBOARD](https://github.com/RAVINDRA-robi/Global-Terrorism-Analysis---Exploratory-Data-Analysis-EDA-with-ML-/blob/dd7cd250fea2b9f0814ef38cc91ef63202302e36/DASHBOARD.png)
 
 The dashboard provides an interactive view of the analysis with:
 
